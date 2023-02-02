@@ -2,13 +2,14 @@
 Bunch of basic VR functionality stuff made from the ground up (Singleplayer and MP)
 
 *Gameplay videos:*
-General:  XXXXXXXXXXXXXXXXX
-Fullbody multiplayer with Vive Trackers: XXXXXXXXXX
+General:  https://youtu.be/PYTSOalylf8
+Fullbody multiplayer with Vive Trackers: https://youtu.be/Z5rUVazP51w
 
 *Project snippets made with those plugins or their parts:*
-- XXXXXXX (shipped, cannot be checked up remotely unfortunately)
-- PURPLEHAZE (was never released but is production ready)
-- ENGINE (never left prototype phase)
+- https://youtu.be/L5hir20Se20 (shipped, cannot be checked up remotely unfortunately)
+- https://youtu.be/VSTlapUz1u4 (was never released but is production ready)
+- https://youtu.be/5jgDOPOuyro (never left prototype phase)
+- https://youtu.be/fjtwR_1W2WQ (first VR prototype a few years back, most things were reworked and improved and became VRBase plugin. Hands with physics actually havent been reworked for this project, havent had time to do it)
 
 *General overview:*
 Combines work from multiple plugins, each one extends the functionaly of a former (Regular VR plugin -> Multiplayer VR -> Fullbody VR)
