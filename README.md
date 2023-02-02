@@ -34,11 +34,11 @@ Interactable objects:
 - current multiplayer made using OnlineSubsystems. Was tested with Steam OSS and kind of worked on EOS too (voice chat problems). Should also work with Oculus OSS.
 
 *Fullbody VR plugin Overview (plugin name - VRFullBody)*
-- Adds 3Dof pawn (3 degrees of freedom - HMD + 2 hands) pawn with and up to 8 Vive Trackers
-- 3Dof Pawn is very WIP, with good knowledge in animation and IK much needed
+- Adds 3DoF pawn (3 degrees of freedom - HMD + 2 hands) pawn and another pawn with up to 8 Vive Trackers
+- 3DoF Pawn is very WIP, with good knowledge in animation and IK much needed
 - Tested in a multiplayer game with 3 players (NonVR + 3DoF VR + Trackers VR), with players more then 850km apart
 - Was not tested on UE5.1 so might not work. Video with trackers calibration and multiplayer using Steam was shown above 
 
 *Known issues and WIP things:*
- - After upgrading to 5.1 something weird happened to Slate focus so VR keyboard does not work. Also 3DoF fullbody started to twitch a lot more as seen on a video. Was  
+ - After upgrading to 5.1 something weird happened to Slate focus so VR keyboard does not work. Also 3DoF fullbody started to twitch a lot more as seen on a video.  
  - VR Full body is work in progress ... (downgrade to 5.0 for SteamVR and 3dof animations needs an improvement especially when player bends or knees)
